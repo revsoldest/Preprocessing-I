@@ -2,7 +2,7 @@
 
 For this project you will be building a digital resume from scratch. You will be required to use specific preprocessing skills to accomplish your tasks.  
 
-## Task 1: Set Up The Project With Git
+##  Set Up The Project With Git
 
 - [x] Create a forked copy of this project.
 - [x] Add your project manager as collaborator on Github.
